@@ -1,6 +1,8 @@
 # Snake-Game-js
 A snake game inspired by 1997 mobile classic in your browser!
 
+![Snake Game JS](snake-game-js.png)
+
 # Set up
 
 You need to place all of game files into public directory of your web server.
