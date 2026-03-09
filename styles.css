@@ -1,5 +1,5 @@
 :root {
-    --deus-bg: rgba(154, 165, 107, 0.9);
+    --deus-bg: rgba(154, 165, 107, 1);
     --deus-dark: #060706;
     --deus-screen-bg: #7b9343;
     --phone-body: #111;
@@ -164,4 +164,5 @@ p {
         min-height: 100vh;
         justify-content: space-evenly;
     }
+
 }
