@@ -24,7 +24,7 @@ git clone https://github.com/IvanDeus/Snake-Game-js.git
 
 ### Option 2: Web Server Setup
 Place all game files into your web server's public directory. For a quick local server setup, you can use:
-![Flask Web Server]https://github.com/IvanDeus/Flask-Web-Server
+[Flask Web Server](https://github.com/IvanDeus/Flask-Web-Server)
 
 ## 🎯 How to Play
 
