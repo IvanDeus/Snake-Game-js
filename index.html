@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+
+<body>
+        <div class="credits" id="credits">[ ivan deus ]</div>
+    <div class="game-container">
+        <div class="header">
+            <span id="score">0</span>
+            <span class="title">SNAKE</span>
+        </div>
+
+        <div class="screen-border">
+            <canvas id="gameCanvas" width="300" height="300"></canvas>
+            <div id="game-over" class="hidden">
+                <p>GAME OVER</p>
+                <p>SCORE: <span id="final-score">0</span></p>
+                <button id="restart-btn">RESTART</button>
+            </div>
+            <div id="start-screen">
+                <p>SNAKE</p>
+                <button id="start-btn">PLAY</button>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="control-row">
+                <button class="dpad-btn" id="btn-up">&#9650;</button>
+            </div>
+            <div class="control-row">
+                <button class="dpad-btn" id="btn-left">&#9664;</button>
+                <div class="midempty"> </div>
+                <button class="dpad-btn" id="btn-right">&#9654;</button>
+            </div>
+            <div class="control-row">
+                <button class="dpad-btn" id="btn-down">&#9660;</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+
+</html>
