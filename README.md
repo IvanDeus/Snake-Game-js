@@ -1,5 +1,5 @@
 # Snake-Game-js
-A classic game in your browser!
+A snake game inspired by 1997 mobile classic in your browser!
 
 # Set up
 
