@@ -40,6 +40,7 @@ Place all game files into your web server's public directory. For a quick local 
 Snake-Game-js/
 ├── index.html          # Main game page
 ├── snake-game-js.png   # Game screenshot
+├── favicon.ico         # Game icon
 ├── styles.css          # Game styling
 └── game.js             # Game logic
 ```
