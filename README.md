@@ -1,6 +1,6 @@
 # 🐍 Snake Game JS
 
-A nostalgic recreation of the classic 1997 mobile Snake game, playable directly in your browser!
+A nostalgic reimagining of the classic 1997 mobile Snake game, playable directly in your browser!
 
 ![Snake Game JS](snake-game-js.png)
 
