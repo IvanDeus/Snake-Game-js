@@ -15,7 +15,7 @@ A nostalgic reimagining of the classic 1997 mobile Snake game, playable directly
 ## 🚀 Quick Start
 
 ### Option 1: Local Play
-1. Clone this repository
+1. Download the latest release or clone this repository:
 ```bash
 git clone https://github.com/IvanDeus/Snake-Game-js.git
 ```
